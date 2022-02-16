@@ -1,4 +1,4 @@
-Hi there, I am [a link](cihankafadar.com)
+Hi there, I am [Cihan](www.cihankafadar.com)
 
 <!--
 **Cihaan/Cihaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
